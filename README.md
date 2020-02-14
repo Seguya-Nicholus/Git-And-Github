@@ -9,3 +9,4 @@ Tutorial about git and github
 6) git show : it is like a detailed log.
 7) git commit -am : it combines the add and commit statements into one statement.
 8) git reset HEAD : it unstages the added/modified files from the staging area.
+9) git log --oneline --graph --decorate --all : it displays all the commits
