@@ -8,3 +8,4 @@ Tutorial about git and github
 5) git log : it shows the log of all commit made.
 6) git show : it is like a detailed log.
 7) git commit -am : it combines the add and commit statements into one statement.
+8) git reset HEAD : it resets to the previous commit made.
