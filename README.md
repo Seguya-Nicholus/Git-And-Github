@@ -2,3 +2,6 @@
 Tutorial about git and github
 
 1) Git init : Initialising git in a given folder.
+2) git add : to add changes made to any file .
+3) git commit : to save the changes made to any file tracked by git
+4) git push : to forward the changes to a remote repository.
